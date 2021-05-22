@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML and web devlopment
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hockeyshunk04@gmail.com
+- 📫 How to reach me joshuashunk@gmail.com
 
 <!---
 JoshuaShunk/JoshuaShunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
