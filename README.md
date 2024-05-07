@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JoshuaShunk
 - 👀 I’m interested in ML and web devlopment
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joshuashunk@gmail.com
 
 <!---
